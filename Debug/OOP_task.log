@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\fedya\documents\visual studio 2017\projects\oop_task\oop_task\shapes.h(16): warning C4100: 'shape': unreferenced formal parameter
+c:\users\fedya\documents\visual studio 2017\projects\oop_task\oop_task\shapes.h(180): warning C4250: 'Square': inherits 'Rect::Rect::print' via dominance
+  c:\users\fedya\documents\visual studio 2017\projects\oop_task\oop_task\shapes.h(155): note: see declaration of 'Rect::print'
+  OOP_task.vcxproj -> C:\Users\Fedya\documents\visual studio 2017\Projects\OOP_task\Debug\OOP_task.exe
+  OOP_task.vcxproj -> C:\Users\Fedya\documents\visual studio 2017\Projects\OOP_task\Debug\OOP_task.pdb (Partial PDB)
